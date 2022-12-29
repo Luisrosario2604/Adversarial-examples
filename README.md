@@ -46,8 +46,12 @@ $ jupyter notebook Adversarial\ examples\ -\ Deep\ learning.ipynb
 
     .
     ├── Adversarial examples - Deep learning.ipynb
+    ├── imgs
+    │    ├── result1.png
+    │    └── result.png
     ├── README.md
     └── requirements.txt
+
 
 ## Authors
 
