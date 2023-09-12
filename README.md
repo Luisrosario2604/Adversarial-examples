@@ -11,19 +11,20 @@ Introduction to adversarial examples - Deepl learning
 ## Requirements
 
 * Python 3.7+
-* Jupiter notebook
-* matplotlib >= 3.3
-* tensorflow >= 2.6
+* jupyter ~= 1.0.0
+* matplotlib ~= 3.3
+* tensorflow ~= 2.6
 
 How to install all the requirements :
+
 ```bash
-$ pip install -r requirements.txt
+pip3 install -r requirements.txt
 ```
 
 ## Usage
 
 ```bash
-$ jupyter notebook Adversarial\ examples\ -\ Deep\ learning.ipynb
+jupyter notebook Adversarial\ examples\ -\ Deep\ learning.ipynb
 ```
 
 ## Results
@@ -55,4 +56,4 @@ $ jupyter notebook Adversarial\ examples\ -\ Deep\ learning.ipynb
 
 ## Authors
 
-* **Luis Rosario** - *Initial work* - [Luisrosario2604](https://github.com/Luisrosario2604)
+* **Luis Rosario** - *Member 1* - [Luisrosario2604](https://github.com/Luisrosario2604)
